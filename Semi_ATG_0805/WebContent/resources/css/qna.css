@@ -1,0 +1,50 @@
+	#qnalist_title{
+		position: absolute;
+		margin-top : 100px;
+		padding-left: 10px;
+	}
+	
+	.qnalist_table {
+		position: absolute;
+		width: 80%;
+		margin-top : 150px;
+		margin-left: auto;
+		margin-right: auto;
+		border-collapse: separate;
+    	border-spacing: 1px;
+   	 	text-align: left;
+    	line-height: 1.5;
+    	border-top: 1px solid #ccc;	
+	}
+	
+	.qnalist_table th {	   
+	    padding: 10px;
+	    font-weight: bold;
+	    vertical-align: top;
+	    border-bottom: 1px solid #ccc;
+	}
+	.qnalist_table td {	    
+	    padding: 10px;
+	    vertical-align: top;
+	    border-bottom: 1px solid #ccc;
+	}
+	
+	#qna_insert_button {
+		border-bottom: none;
+	}
+	
+	.qna_answer_hide{
+		display:none;
+	}
+	
+	#qna_insert_button img {
+		width:10px;
+		height:10px;
+	}
+	
+	#qna_insert_button span {
+		font-size: 14px;
+	}
+	
+
+	

@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+/*---------------------------------*/
+/*--------------regist------------*/
+.secssion{
+	padding-top: 3%;
+}
+form{
+	padding-top: 2%;
+}
+
+	#reg_btn{
+		background-color: #ccc;
+		text-align: center;
+		width: 200px;
+		height: 200px;
+		border: none;
+		margin-left: 42%;
+	}
+
